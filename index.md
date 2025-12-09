@@ -12,7 +12,7 @@
 	                    "value": {
 	                        "valueType": "StructuredValue",
 	                        "value": {
-	                            currentPage:"https://infallibletechie.github.io"
+	                            currentPage:"ContactUs"
 	                        }
 	                    }
 	                }
